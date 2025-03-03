@@ -1,1 +1,1 @@
-### Express.js + ReactJS + postgresSQL
+### Express.js + ReactJS + postgreSQL
